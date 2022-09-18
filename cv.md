@@ -3,7 +3,7 @@
 
 # Ataveli Atayev
 
-# My Contact Info
+## My Contact Info
 
 * **Address:** Moskovskaya st.Brest,Belarus
 * **Phone:** +375297379873
@@ -12,19 +12,20 @@
 
 
 
-# Summary
+## Summary
 
 At the moment I'm studying at Rolling Scopes as a front-end developer, I'm studying technologies such as nmtl, css, javascript
 
-# Education
+## Education
 
 * **Brest State Tehnical University**
     * Faculty of Economy.
 * **Second Education**
     * Logistic
 
-# Languages
+## Languages
 
 - Turkmen           
 - Russian
 - English
+
